@@ -1,5 +1,3 @@
-# TEST ONLY: synthetic contribution preservation pilot
+# Same-ID contribution pilot
 
-This repository contains artificial historical dates for an authorized test. No production or private data.
-
-Role: primary repository, renamed without changing its numeric identity.
+Synthetic files: [experiments/rename-primary](experiments/rename-primary/).
